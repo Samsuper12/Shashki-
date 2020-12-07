@@ -1,5 +1,7 @@
 # Shashki! - Unity.
 
+![preview][preview_img]
+
 ## Issues
 
  - [ ] Иногда одна шашка жрет на противоположной движению диагонали
@@ -21,3 +23,6 @@
 
 
 Спасибо всем, кто был рядом.
+
+[//]: # (LINKS)
+[preview_img]: docs/screen.jpg
